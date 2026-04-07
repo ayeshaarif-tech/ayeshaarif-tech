@@ -68,9 +68,12 @@ Focused on building **real-world detection systems**, analyzing attacks, and sim
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ayeshaarif-tech&theme=dark&hide_border=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ayeshaarif-tech&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaarif-tech&layout=compact&theme=dark&hide_border=true)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ayeshaarif-tech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=ayeshaarif-tech&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaarif-tech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
