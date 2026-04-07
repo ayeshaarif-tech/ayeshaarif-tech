@@ -1,81 +1,60 @@
-# 👩‍💻 Ayesha Arif
+# Ayesha Arif
+## Cybersecurity Graduate | SOC Analyst Candidate
 
-🚨 **SOC Analyst | SIEM Engineer | Threat Detection Enthusiast**
-
-Cybersecurity graduate specializing in **Security Operations (SOC)**, **SIEM engineering**, and **threat detection**.  
-Focused on building **real-world detection systems**, analyzing attacks, and simulating SOC environments.
-
----
-
-## 🧠 Core Focus
-- SIEM Engineering (Wazuh)
-- Threat Detection & Alerting
-- Network Traffic Analysis
-- Incident Response (Triage Level)
-- Vulnerability Assessment
+Cybersecurity graduate from Air University specializing in 
+Security Operations, SIEM deployment, and threat detection.
+Building hands-on lab experience in attack simulation, 
+alert triage, and incident response workflows.
 
 ---
 
-## 🔬 Featured Projects (Real-World Simulations)
+## Technical Skills
 
-### 🛡️ SOC Lab – Attack Detection Environment
-- Built a full SOC lab using Wazuh
-- Simulated attacks (Brute Force, Reverse Shell, Privilege Escalation)
-- Created detection rules and alert pipelines
-- Mapped detections to MITRE ATT&CK
-
-### 🧪 Malware Detection Project
-- Designed detection logic for suspicious behavior
-- Analyzed system activity and logs
-- Automated detection using Python
-
-### 🔐 Encryption-Based Security System (FYP)
-- Implemented encryption-based protection model
-- Focused on data confidentiality and secure communication
-
----
-
-## ⚙️ Tools & Technologies
-
-### 🔐 Security Stack
+### Security Tools
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-blue)
 ![Nessus](https://img.shields.io/badge/Nessus-Vulnerability-red)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-Scanner-green)
 ![Nmap](https://img.shields.io/badge/Nmap-Network-lightgrey)
 ![Burp Suite](https://img.shields.io/badge/BurpSuite-Web-orange)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-black)
 ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-purple)
 ![KAPE](https://img.shields.io/badge/KAPE-IR-blue)
 
----
-
-### 💻 Systems & Programming
+### Programming & Systems
 ![Python](https://img.shields.io/badge/Python-Scripting-blue)
 ![Shell](https://img.shields.io/badge/Shell-Scripting-black)
-![Java](https://img.shields.io/badge/Java-Programming-orange)
 ![Linux](https://img.shields.io/badge/Linux-Environment-yellow)
-![Networking](https://img.shields.io/badge/Networking-Core-blue)
 
 ---
 
-## 🚀 What I’m Currently Doing
-- SIEM tuning and detection engineering
-- Alert triage and incident analysis
-- Network traffic deep inspection
-- Vulnerability scanning and reporting
+## Projects
+
+### Blockchain Smart City System (FYP)
+Secure environmental monitoring system using private Ethereum 
+blockchain, IPFS storage, AES+XOR hybrid encryption, FastAPI 
+backend, and React frontend. ML anomaly detection achieved 
+92.06% accuracy.
+[View Repository](#) ← replace with actual link
+
+### macOS PDF Exploit Analysis
+Demonstrated code execution via malicious PDF on outdated 
+macOS. Documented full attack chain and SOC detection 
+opportunities mapped to log sources and SIEM rules.
+[View Repository](#) ← replace with actual link
+
+### Wazuh SIEM Deployment
+Deployed Wazuh SIEM in a home lab environment. Configured 
+custom detection rules and monitored network agent activity.
+[View Repository](#) ← replace with actual link
 
 ---
 
-## 📊 GitHub Stats
+## Certifications & Training
+- Blue Team Labs Online — Active
+- IBM Introduction to Cybersecurity Tools — Coursera
+- Currently pursuing: CompTIA Security+
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ayeshaarif-tech&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=ayeshaarif-tech&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayeshaarif-tech&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
-## 🌐 Connect
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha_Arif-blue?logo=linkedin)](https://linkedin.com/in/ayesha-arif215064)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:aa.ayeshaarif@gmail.com)
