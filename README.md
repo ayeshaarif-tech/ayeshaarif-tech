@@ -44,7 +44,7 @@ opportunities mapped to log sources and SIEM rules.
 ### Wazuh SIEM Deployment
 Deployed Wazuh SIEM in a home lab environment. Configured 
 custom detection rules and monitored network agent activity.
-[View Repository](#) ← replace with actual link
+[View Repository](https://github.com/ayeshaarif-tech/wazuh-siem-lab)
 
 ---
 
