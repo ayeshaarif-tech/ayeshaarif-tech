@@ -33,13 +33,13 @@ Secure environmental monitoring system using private Ethereum
 blockchain, IPFS storage, AES+XOR hybrid encryption, FastAPI 
 backend, and React frontend. ML anomaly detection achieved 
 92.06% accuracy.
-[View Repository](#) ← replace with actual link
+[[View Repository](https://github.com/ayeshaarif-tech/smartcity-blockchain-security)](#) 
 
 ### macOS PDF Exploit Analysis
 Demonstrated code execution via malicious PDF on outdated 
 macOS. Documented full attack chain and SOC detection 
 opportunities mapped to log sources and SIEM rules.
-[View Repository](#) ← replace with actual link
+[[View Repository](https://github.com/ayeshaarif-tech/macos-pdf-exploit-analysis)](#) 
 
 ### Wazuh SIEM Deployment
 Deployed Wazuh SIEM in a home lab environment. Configured 
